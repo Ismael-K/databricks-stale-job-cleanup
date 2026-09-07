@@ -2,7 +2,7 @@
 
 A Databricks notebook that bulk-deletes jobs by Job ID using the workspace **Jobs REST API 2.1** (not the Jobs UI). It is built to retire a large stale-job list (on the order of 1000 IDs) with a dry-run, backups, and a thread pool.
 
-Committed as `Jobs_Deletion_API_Calls.ipynb` so a sample run's cell outputs are preserved.
+Committed as `Jobs_Deletion_API_Calls.ipynb`.
 
 
 
